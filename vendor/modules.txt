@@ -1,0 +1,20 @@
+# github.com/hirochachacha/go-smb2 v1.0.10
+## explicit
+# github.com/magefile/mage v1.11.0
+## explicit
+github.com/magefile/mage/mg
+github.com/magefile/mage/sh
+# github.com/rakyll/statik v0.1.7
+## explicit
+# github.com/spf13/afero v1.6.0
+## explicit
+# golang.org/x/crypto v0.0.0-20211117183948-ae814b36b871
+## explicit
+# golang.org/x/image v0.0.0-20211028202545-6944b10bf410
+## explicit
+# golang.org/x/sys v0.0.0-20211117180635-dee7805ff2e1
+## explicit
+# golang.org/x/text v0.3.7
+## explicit
+# gvisor.dev/gvisor v0.0.0-20211120041654-0fd9b69d5ccd
+## explicit
